@@ -1,5 +1,6 @@
 # Credit Card Customer Analytics with SQL
 
+This projects analyses a million synthetic credit card transactions using SQL. The goal is to simulate a real business enviroment by answering practical business questions related to customer behaviour, revenue concentration, spending patterns and customer cohorts.
 
 ## Dataset
 The original dataset contains approximately 20 millions transactions. Due to MySQL import limitations on my pc, this project uses a random sample of 1 million transactions while preserving the original table structure and relationships.
